@@ -241,7 +241,7 @@ function Sidebar({
             GitHub <span>↗</span>
           </SmartLink>
           <SmartLink
-            href="/treasure-zulu-cv.pdf"
+            href="../public/treasure-zulu-cv.pdf"
             className="text-link"
             download
           >
