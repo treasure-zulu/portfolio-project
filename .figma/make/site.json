@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your software engineering skills with a dynamic portfolio featuring projects, CV download, and GitHub links, all in a user-friendly layout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
