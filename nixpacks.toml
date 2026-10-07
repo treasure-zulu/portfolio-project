@@ -1,0 +1,2 @@
+[install]
+cmds = ["git lfs install", "git lfs pull"]
